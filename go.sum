@@ -55,6 +55,8 @@ github.com/steinfletcher/apitest v1.3.11 h1:ojgK4+VQ+2/yRlwD+aFikiG9L7Uj9itXr52u
 github.com/steinfletcher/apitest v1.3.11/go.mod h1:pCHKMM2TcH1pezw/xbmilaCdK9/dGsoCZBafwaqJ2sY=
 github.com/steinfletcher/apitest v1.4.0 h1:NfKf/kOTtzj/Y/T42570hNGlyVfS1lWPYTNAs6BonFw=
 github.com/steinfletcher/apitest v1.4.0/go.mod h1:pCHKMM2TcH1pezw/xbmilaCdK9/dGsoCZBafwaqJ2sY=
+github.com/steinfletcher/apitest v1.4.7 h1:uZ8YsCN2D0466Qe0VJC3Wc7mIl7Xm0LG8od2wUW9Iqo=
+github.com/steinfletcher/apitest v1.4.7/go.mod h1:yaYc9GDlj4fa0qUUDywqAmrELlNbDrBwd36Zgo5hMZo=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
@@ -63,6 +65,8 @@ github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+github.com/stretchr/testify v1.5.1 h1:nOGnQDM7FYENwehXlg/kFVnos3rEvtKTjRvOWSzb6H4=
+github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 h1:nrZ3ySNYwJbSpD6ce9duiP+QkD3JuLCcWkdaehUS/3Y=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80/go.mod h1:iFyPdL66DjUD96XmzVL3ZntbzcflLnznH0fr99w5VqE=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
